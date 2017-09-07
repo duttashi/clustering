@@ -10,4 +10,6 @@ Some notable R packages for cluster analysis are given below.
 
 A major drawback with k-means algorithm is the requirement to specify the number of clusters in advance. An alternative approach to determine the `optimal number` of clusters is to use the `silhouette` method. The average silhouette measures the quality of a clustering. A high average silhouette width indicates a good clustering. The optimal number of clusters k is the one that maximize the average silhouette over a range of possible values for k (Kaufman and Rousseeuw 1990). I show an example below;
 
+
+
    
